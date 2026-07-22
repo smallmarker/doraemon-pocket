@@ -60,12 +60,22 @@
   {
     "id": "xsus",
     "name": "XSUS",
-    "url": "https://xsus3.com",
+    "url": "https://xsus3.com/register?code=3f7bYJjX",
     "description": "提供 VPN 服务的账户控制台，用于管理和使用网络连接服务。",
     "tags": ["VPN", "网络", "科学上网"],
     "aliases": ["xsus", "XSUS VPN", "vpn", "VPN", "科学上网", "网络代理", "翻墙", "代理服务"],
     "scenarios": ["管理 VPN 账户和网络连接服务"],
     "requiresLogin": true,
     "priority": 75
+  },
+  {
+    "id": "universal-media-downloader",
+    "name": "全能媒体下载器",
+    "url": "https://downloader.bhwa233.com/zh",
+    "description": "支持从多个社交与视频平台下载视频、图片和音频等媒体内容。",
+    "tags": ["媒体下载", "视频", "下载"],
+    "aliases": ["媒体下载", "视频下载", "图片下载", "音频下载", "下载器", "Bilibili下载", "哔哩哔哩下载", "抖音下载", "小红书下载", "TikTok下载", "Instagram下载", "微博下载", "X下载", "Twitter下载", "Telegram下载", "Twitch下载", "SoundCloud下载", "Pinterest下载", "Reddit下载", "Vimeo下载", "Dailymotion下载"],
+    "scenarios": ["保存已获授权的社交媒体或视频平台内容"],
+    "priority": 70
   }
 ]
