@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Doraemon Pocket</title>
+    <script>
+      const parts = window.location.pathname.split('/').filter(Boolean)
+      const isProjectPage = parts.length > 1
+      const basePath = isProjectPage ? `/${parts[0]}/` : '/'
+      const appPath = isProjectPage ? `/${parts.slice(1).join('/')}` : window.location.pathname
+      const target = `${appPath}${window.location.search}`
+      window.location.replace(`${basePath}?redirect=${encodeURIComponent(target)}`)
+    </script>
+  </head>
+  <body></body>
+</html>

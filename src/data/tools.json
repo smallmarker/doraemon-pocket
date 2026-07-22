@@ -1,0 +1,48 @@
+[
+  {
+    "id": "timestamp-converter",
+    "name": "时间戳转换",
+    "url": "https://tool.lu/timestamp/",
+    "description": "在线转换 Unix 时间戳与日期时间，支持秒和毫秒。",
+    "tags": ["开发", "时间戳", "日期"],
+    "aliases": ["timestamp", "unix 时间戳", "时间转换", "时间戳转换器"],
+    "scenarios": ["调试接口中的时间字段"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 100
+  },
+  {
+    "id": "json-formatter",
+    "name": "JSON 格式化",
+    "url": "https://www.json.cn/",
+    "description": "在线格式化、校验和压缩 JSON 数据。",
+    "tags": ["开发", "JSON", "格式化"],
+    "aliases": ["json美化", "json 格式化", "json校验", "json压缩", "接口数据"],
+    "scenarios": ["检查和整理接口返回的 JSON"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 95
+  },
+  {
+    "id": "image-compression",
+    "name": "图片压缩",
+    "url": "https://tinypng.com/",
+    "description": "在线压缩 PNG、JPEG 和 WebP 图片，减少文件体积。",
+    "tags": ["图片", "压缩", "设计"],
+    "aliases": ["图片压缩", "压缩图片", "图片瘦身", "tinypng", "image compression"],
+    "scenarios": ["减小图片文件以便网页上传"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 90
+  },
+  {
+    "id": "multi-source-music-search",
+    "name": "无损音乐下载",
+    "url": "https://flac.music.hi.cn/",
+    "description": "多站合一音乐搜索，支持在线试听、多音质与歌词下载。",
+    "tags": ["音乐", "搜索", "下载"],
+    "aliases": ["音乐搜索", "歌曲搜索", "在线听歌", "在线音乐", "找歌", "搜歌", "音乐下载", "歌曲下载", "无损音乐", "FLAC下载", "MP3下载", "高音质音乐", "歌词下载", "LRC歌词", "试听"],
+    "scenarios": ["查找歌曲并试听或下载歌词文件"],
+    "priority": 85
+  }
+]
