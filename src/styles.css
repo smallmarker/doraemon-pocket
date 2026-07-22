@@ -47,7 +47,9 @@ button, input { font: inherit; }
 .scenario { display: block; margin-top: 9px; color: #7a8899; }
 .open-tool { align-self: center; padding: 11px 16px; font-size: 14px; }
 .empty-state { border: 1px dashed #b4cce3; border-radius: 18px; padding: 54px 24px; background: #fff; color: #5b6a7e; text-align: center; }
-.empty-state > span { color: #368dd3; font-size: 34px; }
+.empty-state-image { display: block; width: min(168px, 46vw); height: auto; margin: 0 auto 16px; }
 .empty-state h2 { color: #26354a; font-size: 20px; margin: 12px 0 8px; }
 .empty-state p { margin: 0; }
+.empty-state a { color: #197fc9; font-weight: 700; text-underline-offset: 3px; }
+.empty-state a:hover { color: #1265aa; }
 @media (max-width: 680px) { .home-page { padding: 20px; } .home-hero { display: block; padding: clamp(36px, 9vh, 64px) 0 48px; } .home-search-area { width: 100%; } .doraemon-hero { width: 106%; margin-top: 13px; margin-bottom: -4px; } .home-page .pocket-search { padding-left: 15px; border-radius: 999px; } .search-button { padding: 0 16px; } .results-header { padding: 13px 20px 16px; } .results-header-content { min-height: 102px; display: grid; align-content: center; gap: 12px; } .results-search-wrap { width: 100%; max-width: none; } .results-header .pocket-search { width: 100%; } .results-doodle { right: -3%; bottom: 8px; width: 350px; opacity: .2; } .results-content { width: min(100% - 32px, 860px); padding-top: 30px; } .tool-card { grid-template-columns: 42px 1fr; padding: 16px; gap: 13px; } .tool-icon { width: 42px; height: 42px; } .tool-content { min-width: 0; } .open-tool { grid-column: 1 / -1; width: 100%; text-align: center; } }
