@@ -44,5 +44,17 @@
     "aliases": ["音乐搜索", "歌曲搜索", "在线听歌", "在线音乐", "找歌", "搜歌", "音乐下载", "歌曲下载", "无损音乐", "FLAC下载", "MP3下载", "高音质音乐", "歌词下载", "LRC歌词", "试听"],
     "scenarios": ["查找歌曲并试听或下载歌词文件"],
     "priority": 85
+  },
+  {
+    "id": "macat",
+    "name": "马克喵",
+    "url": "https://www.macat.vip/",
+    "description": "收录全网最新的 Mac 软件与游戏，提供免费获取入口。",
+    "tags": ["Mac", "软件", "游戏"],
+    "aliases": ["macat", "macat.vip", "Mac 软件", "mac软件", "macOS 软件", "苹果软件", "Mac 游戏", "mac游戏", "Mac 应用", "Mac 下载"],
+    "scenarios": ["查找 Mac 平台的软件或游戏"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 80
   }
 ]
