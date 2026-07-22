@@ -77,5 +77,15 @@
     "aliases": ["媒体下载", "视频下载", "图片下载", "音频下载", "下载器", "Bilibili下载", "哔哩哔哩下载", "抖音下载", "小红书下载", "TikTok下载", "Instagram下载", "微博下载", "X下载", "Twitter下载", "Telegram下载", "Twitch下载", "SoundCloud下载", "Pinterest下载", "Reddit下载", "Vimeo下载", "Dailymotion下载"],
     "scenarios": ["保存已获授权的社交媒体或视频平台内容"],
     "priority": 70
+  },
+  {
+    "id": "toolify",
+    "name": "Toolify",
+    "url": "https://www.toolify.ai/",
+    "description": "收录大量 AI 网站与 AI 工具的在线导航目录。",
+    "tags": ["AI", "工具导航", "网站"],
+    "aliases": ["toolify", "AI工具", "ai 工具", "AI网站", "ai 网站", "人工智能工具", "AI导航", "AI工具导航", "AI目录"],
+    "scenarios": ["查找适合特定任务的 AI 工具或网站"],
+    "priority": 65
   }
 ]
