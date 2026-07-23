@@ -107,5 +107,15 @@
     "aliases": ["longtv", "LongTV", "影视盒子", "电视盒子", "安卓电视", "Android TV", "手机电视", "影视播放器", "TV播放器"],
     "scenarios": ["在 Android 手机或电视端使用影视播放应用"],
     "priority": 55
+  },
+  {
+    "id": "tools-video",
+    "name": "全能工具箱",
+    "url": "https://tools.video/zh-CN",
+    "description": "提供视频、音频和图片处理功能，文件在浏览器本地处理，兼顾隐私安全。",
+    "tags": ["视频", "音频", "图片"],
+    "aliases": ["全能工具箱", "tools.video", "视频处理", "视频压缩", "视频格式转换", "格式转换", "音频提取", "音频转换", "图片处理", "本地处理", "隐私安全", "文件处理"],
+    "scenarios": ["在浏览器中压缩、转换或提取媒体文件"],
+    "priority": 50
   }
 ]
