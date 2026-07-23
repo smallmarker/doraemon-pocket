@@ -87,5 +87,15 @@
     "aliases": ["toolify", "AI工具", "ai 工具", "AI网站", "ai 网站", "人工智能工具", "AI导航", "AI工具导航", "AI目录"],
     "scenarios": ["查找适合特定任务的 AI 工具或网站"],
     "priority": 65
+  },
+  {
+    "id": "jyshare-tools",
+    "name": "菜鸟工具",
+    "url": "https://www.jyshare.com/",
+    "description": "面向开发者和设计师的在线工具类网站。",
+    "tags": ["开发", "设计", "在线工具"],
+    "aliases": ["菜鸟工具", "jyshare", "开发工具", "设计工具", "在线工具", "程序员工具", "前端工具", "站长工具"],
+    "scenarios": ["查找开发或设计相关的在线实用工具"],
+    "priority": 60
   }
 ]
