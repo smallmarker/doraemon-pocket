@@ -97,5 +97,15 @@
     "aliases": ["菜鸟工具", "jyshare", "开发工具", "设计工具", "在线工具", "程序员工具", "前端工具", "站长工具"],
     "scenarios": ["查找开发或设计相关的在线实用工具"],
     "priority": 60
+  },
+  {
+    "id": "longtv",
+    "name": "LongTV",
+    "url": "https://github.com/smallmarker/LongTV/releases",
+    "description": "内置站点的影视盒子，兼容 Android 手机和电视端。",
+    "tags": ["影视", "Android", "TV"],
+    "aliases": ["longtv", "LongTV", "影视盒子", "电视盒子", "安卓电视", "Android TV", "手机电视", "影视播放器", "TV播放器"],
+    "scenarios": ["在 Android 手机或电视端使用影视播放应用"],
+    "priority": 55
   }
 ]
