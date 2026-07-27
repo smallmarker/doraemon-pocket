@@ -157,5 +157,15 @@
     "aliases": ["AI工具集", "ai-bot", "AI工具", "ai 工具", "AI网站", "ai 网站", "AI导航", "人工智能工具", "AI学习", "AI开发", "AI框架", "AI模型"],
     "scenarios": ["查找 AI 工具、学习资源、开发框架或模型"],
     "priority": 30
+  },
+  {
+    "id": "vocal-remover",
+    "name": "音频分离器",
+    "url": "https://vocalremover.org/",
+    "description": "使用人工智能算法将人声从音乐中分离出来。",
+    "tags": ["音频", "AI", "人声分离"],
+    "aliases": ["音频分离器", "vocalremover", "vocal remover", "人声分离", "伴奏提取", "提取伴奏", "去人声", "消除人声", "音轨分离", "人声伴奏分离"],
+    "scenarios": ["从音乐中分离人声或伴奏音轨"],
+    "priority": 25
   }
 ]
