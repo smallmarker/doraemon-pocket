@@ -167,5 +167,16 @@
     "aliases": ["音频分离器", "vocalremover", "vocal remover", "人声分离", "伴奏提取", "提取伴奏", "去人声", "消除人声", "音轨分离", "人声伴奏分离"],
     "scenarios": ["从音乐中分离人声或伴奏音轨"],
     "priority": 25
+  },
+  {
+    "id": "greenvideo",
+    "name": "GreenVideo",
+    "url": "https://greenvideo.cc/",
+    "description": "免费、稳定、快速的视频下载工具，支持超过 1,000 个视频平台。",
+    "tags": ["视频下载", "下载", "媒体"],
+    "aliases": ["greenvideo", "green video", "视频下载", "下载视频", "在线视频下载", "多平台下载", "媒体下载", "短视频下载", "视频保存"],
+    "scenarios": ["下载已获授权的平台视频内容"],
+    "free": true,
+    "priority": 20
   }
 ]
