@@ -178,5 +178,41 @@
     "scenarios": ["下载已获授权的平台视频内容"],
     "free": true,
     "priority": 20
+  },
+  {
+    "id": "apeaksoft-watermark-remover",
+    "name": "Apeaksoft Watermark Remover",
+    "url": "https://www.apeaksoft.com/watermark-remover/",
+    "description": "免费在线图片水印去除工具，支持 JPG、JPEG、PNG 和 BMP 格式。",
+    "tags": ["图片", "去水印", "AI"],
+    "aliases": ["apeaksoft", "图片去水印", "去除水印", "去logo", "图片修复", "移除文字", "移除图像水印"],
+    "scenarios": ["处理自己拥有或已获授权图片中的水印、文字或标识"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 19
+  },
+  {
+    "id": "pickfrom-blur-video",
+    "name": "PickFrom Blur Video",
+    "url": "https://pickfrom.net/blur-video",
+    "description": "无需注册的在线视频局部模糊工具，可用于保护隐私或隐藏不必要细节。",
+    "tags": ["视频", "隐私", "模糊"],
+    "aliases": ["pickfrom", "视频模糊", "视频打码", "视频马赛克", "隐私保护", "模糊视频", "视频局部模糊"],
+    "scenarios": ["模糊视频中的敏感信息或不必要细节"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 18
+  },
+  {
+    "id": "qushuiyin-tool-list",
+    "name": "免费 AI 去水印工具汇总",
+    "url": "https://github.com/gpizcyyit/qushuiyin",
+    "description": "开源整理的图片与视频去水印工具合集，涵盖多个在线服务。",
+    "tags": ["开源", "去水印", "AI"],
+    "aliases": ["qushuiyin", "去水印工具", "免费去水印", "AI去水印", "图片去水印", "视频去水印", "GitHub去水印", "开源去水印"],
+    "scenarios": ["查找免费在线图片或视频去水印工具"],
+    "free": true,
+    "requiresLogin": false,
+    "priority": 17
   }
 ]
