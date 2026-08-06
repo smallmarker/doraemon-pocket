@@ -214,5 +214,15 @@
     "free": true,
     "requiresLogin": false,
     "priority": 17
+  },
+  {
+    "id": "movie-forest",
+    "name": "影视森林",
+    "url": "http://549.tv/",
+    "description": "聚合影视相关站点与资源入口的导航网站。",
+    "tags": ["影视", "导航", "资源聚合"],
+    "aliases": ["影视森林", "549.tv", "影视导航", "电影导航", "电视剧导航", "影视资源", "在线影视", "观影"],
+    "scenarios": ["查找影视相关站点与资源入口"],
+    "priority": 16
   }
 ]
